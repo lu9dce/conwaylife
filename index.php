@@ -5,7 +5,7 @@
     <!-- Configuración básica del documento HTML -->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ZooBIT by Eduardo Castillo</title>
+    <title>Life by Eduardo Castillo</title>
 
     <!-- Estilos CSS para la apariencia de la página -->
     <style>
