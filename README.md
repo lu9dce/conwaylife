@@ -26,8 +26,4 @@ Para visualizar los datos generados, hay un archivo index.php. Puedes crear un s
 
 Luego, en el navegador, usa **https://127.0.0.1:2000**.
 
-En otra terminal, ejecuta:
-
-```php life.php```
-
 Recuerda ajustar tu archivo php.ini para incluir los módulos necesarios.
