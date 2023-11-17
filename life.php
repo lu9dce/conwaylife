@@ -1,5 +1,9 @@
 <?php
 
+/**
+ * Creado por Eduardo Castillo (hellocodelinux@gmail.com)
+ */
+
 // Tamaño del tablero
 $rows = 160;
 $cols = 160;
@@ -95,7 +99,5 @@ for ($generation = 1; $generation <= $totalGenerations; $generation++) {
     // Esperar medio segundo entre generaciones
     usleep(500000);
 }
-
-echo "Se ha creado la imagen y se ha guardado en el archivo: $imageFilename\n";
 
 ?>
